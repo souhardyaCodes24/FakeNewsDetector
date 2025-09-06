@@ -22,26 +22,6 @@ A sophisticated AI-powered web application that analyzes news articles and text 
 - **Animations**: Custom CSS fade-in animations and ldrs/react loaders
 - **Build Tool**: Vite for lightning-fast development and production builds
 
-## Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/souhardyaCodes24/FakeNewsDetector.git
-   cd FakeNewsDetector
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Access the application**
-   Open your browser and navigate to `http://localhost:5173`
 
 ## Usage
 
